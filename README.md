@@ -17,8 +17,5 @@ Ingeniería de Sistemas y Computación | Especialización en IA | Desarrollo de 
 
 [![](https://komarev.com/ghpvc/?username=Carolinaaaa02&icon=0&color=E4405F)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carolinaaaa02/Carolinaaaa02/output/pacman-contribution-graph.svg" style="filter: invert(0.93) hue-rotate(180deg);" />
-  <img src="https://raw.githubusercontent.com/Carolinaaaa02/Carolinaaaa02/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
-</picture>
+![](https://raw.githubusercontent.com/Carolinaaaa02/Carolinaaaa02/output/pacman-contribution-graph.svg)
 
