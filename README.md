@@ -15,6 +15,6 @@ Ingeniería de Sistemas y Computación | Especialización en IA | Desarrollo de 
 ## Trofeos
 ![](https://github-profile-trophy.vercel.app/?username=Carolinaaaa02&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
-[![](https://komarev.com/ghpvc/?username=Carolinaaaa02&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Carolinaaaa02&icon=0&color=E4405F)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
