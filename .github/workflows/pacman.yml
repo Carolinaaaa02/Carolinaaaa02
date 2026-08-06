@@ -2,8 +2,8 @@ name: generate pacman game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se ejecuta automáticamente todos los días a medianoche
-  workflow_dispatch: # Permite ejecutarlo manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -28,5 +28,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          force: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
